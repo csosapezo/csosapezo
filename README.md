@@ -6,7 +6,7 @@ Python Developer and AI/ML Engineer
 
 I am a developer passionate about how AI can positively impact our lives and the industry, and I am eager to learn new technologies.
 
-*   🌍  I'm based in Aberdeen, Scotland
+*   🌍  I'm based in Aberdeen, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 *   ✉️  You can contact me at [carlossosapezo@gmail.com](mailto:carlossosapezo@gmail.com)
 
 ##  Skills 
